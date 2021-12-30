@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashrockzzz2003
 - 👀 I’m interested in Coding And Music
-- 🌱 I’m currently learning C++ , HTML5 , CSS, JS
+- 🌱 I’m currently learning C++ , HTML5 , CSS, JS, Python
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me 8870014773
 
