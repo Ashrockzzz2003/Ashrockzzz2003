@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashrockzzz2003
 - 👀 Just heading into Competetive Coding.
 - 🎼 Musician
-- 🌱 I’m currently learning C++, HTML5, CSS, JS, Python
+- 🌱 I’m currently learning C, C++, Python, HTML5, CSS, JS, ReactJS, SQL
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 Reach out to me <a href="mailto:ashrockzzz2003@gmail.com">`ashrockzzz2003@gmail.com`</a>
 - 📻 CodeChef: <a href="https://www.codechef.com/users/ashrock_m13" target="_blank">`https://www.codechef.com/users/ashrock_m13`</a>
