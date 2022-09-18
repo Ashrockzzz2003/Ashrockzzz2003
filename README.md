@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Ashwin Narayanan S.
 - 😃 Curious!
 - 👀 Just heading into Competetive Coding.
-- 🎼 Musician, 3D Graphic Designer, Artist...
+- 🎼 Musician, 3D Graphic Designer, Programmer, Artist...
 
 ## Programming Languages
 
