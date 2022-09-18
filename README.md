@@ -5,6 +5,7 @@
 - 👀 Just heading into Competetive Coding.
 - 🎼 Musician, 3D Graphic Designer, Artist...
 - 🌱 I’m currently learning `C, C++, Python, HTML5, CSS, JS, ReactJS, Flutter, SQL, FireBase`
+- 📻 Tools: Blender, Adobe Photoshop.
 - 💞️ I’m looking to collaborate on `GitHub`
 - 📫 Reach out to me <a href="mailto:ashrockzzz2003@gmail.com">`ashrockzzz2003@gmail.com`</a>
 - 📻 CodeChef: <a href="https://www.codechef.com/users/ashrock_m13" target="_blank">`https://www.codechef.com/users/ashrock_m13`</a>
