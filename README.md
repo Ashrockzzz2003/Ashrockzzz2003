@@ -27,7 +27,7 @@
 ## Competitive Coding Profile
 
 <a href="https://www.hackerrank.com/Ashrock_m13"><img height="45" width="45" src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png"></a>
-<a href="https://www.codechef.com/users/ashrock_m13"><img height="50" width="60" src="https://avatars.githubusercontent.com/u/11960354?v=4"></a>
+<a href="https://www.codechef.com/users/ashrock_m13" style="border-radius: 30%; height: 60px; width: 55px;"><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" style="border-radius: 30%; height: 60px; width: 55px;"></a>
 
 
 # GitHub Stats :
