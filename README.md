@@ -5,9 +5,9 @@
 - 👀 Just heading into Competetive Coding.
 - 🎼 Musician, 3D Graphic Designer, Programmer, Artist...
 
-## Programming Languages
+## Programming Languages & Frameworks
 
-![My Skills](https://skills.thijs.gg/icons?i=c,cpp,py,js,html,css,react,mysql,postgres,flutter)
+![My Skills](https://skills.thijs.gg/icons?i=c,cpp,py,js,html,css,react,mysql,postgres,flutter,flask)
 
 ## Tools
 
@@ -19,7 +19,7 @@
 
 ## Reach Out To Me
 
-<a href="mailto:ashrockzzz2003@gmail.com"><img height="50" width="90" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png"></a>
+<a href="mailto:ashrockzzz2003@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
 <a href="https://www.linkedin.com/in/ashwin-narayanan-s-02a051222/">![My Skills](https://skills.thijs.gg/icons?i=linkedin)</a>
 <a href="https://www.instagram.com/ashrock_m13/">![My Skills](https://skills.thijs.gg/icons?i=instagram)</a>
 <a href="https://twitter.com/Ashwin66950013">![My Skills](https://skills.thijs.gg/icons?i=twitter)</a>
