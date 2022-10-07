@@ -11,7 +11,7 @@
 
 ## Tools
 
-![My Skills](https://skills.thijs.gg/icons?i=git,github,androidstudio,arduino,autocad,blender,bootstrap,codepen,firebase,ps,visualstudio,vscode,wordpress)
+![My Skills](https://skills.thijs.gg/icons?i=git,github,androidstudio,arduino,autocad,blender,bootstrap,codepen,firebase,ps,visualstudio,vscode,wordpress,figma)
 
 ## MarkUp
 
