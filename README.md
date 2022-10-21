@@ -9,10 +9,11 @@
 
 ![My Skills](https://skills.thijs.gg/icons?i=c,cpp,py,js,html,css,react,mysql,postgres,flutter,flask,sqlite)
 
+<!-- Coming Soon
 ## GitHub Contributions Graph
 
-[![Ashrock_m13's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashrockzzz2003&theme=xcode)](https://github.com/Ashrockzzz2003)
-
+[![Ashwin Narayanan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ashrockzzz2003&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
 ## Tools
 
