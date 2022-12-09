@@ -12,8 +12,7 @@
 
 ## GitHub Contributions Graph
 
-[![Ashwin Narayanan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ashrockzzz2003&theme=github-dark)](https://github.com/Ashrockzzz2003)
-
+[![Ashwin's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashrockzzz2003&theme=github-dark)](https://github.com/Ashrockzzz2003)
 
 ## Tools
 
