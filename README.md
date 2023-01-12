@@ -36,9 +36,7 @@
 <a href="https://twitter.com/Ashwin66950013">![My Skills](https://skills.thijs.gg/icons?i=twitter)</a>
 
 
-<!-- Coming Soon
+
 # GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Ashrockzzz2003&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ashrockzzz2003&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashrockzzz2003&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
--->
+
