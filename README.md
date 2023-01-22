@@ -1,8 +1,8 @@
 # About Me
 
-- 👋 Hi, I’m Ashwin Narayanan S.
+- 👋 Hi, I’m [`Ashwin Narayanan S`](https://www.linkedin.com/in/ashwin-narayanan-s-02a051222/).
 - 😃 Curious!
-- 👀 Just heading into Competetive Coding.
+- 👀 Just heading into Competetive Coding [3* in CodeChef](https://www.codechef.com/users/ashrock_m13).
 - 🎼 Musician, 3D Graphic Designer, Programmer, Artist...
 
 ## Programming Languages & Frameworks
@@ -31,7 +31,7 @@
 ## Reach Out To Me
 
 <a href="mailto:ashrockzzz2003@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
-<a href="https://www.linkedin.com/in/ashwin-narayanan-s-02a051222/">![My Skills](https://skills.thijs.gg/icons?i=linkedin)</a>
+<a href="https://www.linkedin.com/in/ashwin-narayanan-s-02a051222/">![LinkedIn](https://skills.thijs.gg/icons?i=linkedin)</a>
 <a href="https://www.instagram.com/ashrock_m13/">![My Skills](https://skills.thijs.gg/icons?i=instagram)</a>
 <a href="https://twitter.com/Ashwin66950013">![My Skills](https://skills.thijs.gg/icons?i=twitter)</a>
 
