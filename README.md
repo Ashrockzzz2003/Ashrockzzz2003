@@ -1,7 +1,7 @@
 # About Me
 
 - 👋 Hi, I’m [`Ashwin Narayanan S`](https://www.linkedin.com/in/ashwin-narayanan-s-02a051222/).
-- 😃 Curious!
+- 😌 Curious!
 - 👀 Just heading into Competetive Coding [[CodeChef](https://www.codechef.com/users/ashrock_m13), [CodeForces](https://codeforces.com/profile/ashrock_m13), [LeetCode](https://leetcode.com/ashrockzzz2003/)].
 - 👀 ChatGPT prompter!
 - 🎼 Musician | 3D Graphic Designer | Programmer | Artist | App Developer...
