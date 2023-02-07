@@ -8,7 +8,7 @@
 
 ## Programming Languages & Frameworks
 
-![Skills](https://skills.thijs.gg/icons?i=c,cpp,py,js,html,css,react,mysql,postgres,flutter,flask,sqlite)
+![Skills](https://skills.thijs.gg/icons?i=c,cpp,py,java,js,html,css,react,mysql,postgres,flutter,flask,sqlite)
 
 
 ## GitHub Contributions Graph
