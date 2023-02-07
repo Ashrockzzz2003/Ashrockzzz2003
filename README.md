@@ -8,7 +8,7 @@
 
 ## Programming Languages & Frameworks
 
-![Skills](https://skills.thijs.gg/icons?i=c,cpp,py,java,js,html,css,react,mysql,postgres,flutter,flask,sqlite)
+![Skills](https://skills.thijs.gg/icons?i=c,cpp,py,java,js,html,css,react,mysql,postgres,flutter,flask,sqlite,dart)
 
 
 ## GitHub Contributions Graph
@@ -17,7 +17,7 @@
 
 ## Tools
 
-![My Skills](https://skills.thijs.gg/icons?i=git,github,androidstudio,arduino,autocad,blender,bootstrap,codepen,firebase,ps,visualstudio,vscode,wordpress,figma)
+![My Skills](https://skills.thijs.gg/icons?i=git,github,androidstudio,arduino,autocad,blender,bootstrap,codepen,firebase,ps,visualstudio,vscode,wordpress,figma,eclipse)
 
 ## MarkUp
 
