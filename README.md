@@ -42,4 +42,7 @@
 # GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ashrockzzz2003&theme=dark&hide_border=false)<br/>
 
-![Ashwin Narayanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashrockzzz2003&show_icons=true&theme=dark&hide_border=false)
+
+<!--Under Maintanence
+[![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashrockzzz2003)](https://github.com/Ashrockzzz2003/)
+-->
