@@ -9,6 +9,7 @@
 
 ## Programming Languages & Frameworks
 
+<!--TODO: Add verilog-->
 ![Skills](https://skills.thijs.gg/icons?i=c,cpp,py,java,js,html,css,react,mysql,postgres,flutter,flask,sqlite,dart)
 
 
