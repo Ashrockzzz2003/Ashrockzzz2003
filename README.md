@@ -6,6 +6,7 @@
 - 👀 Just heading into Competetive Coding [[CodeChef](https://www.codechef.com/users/ashrock_m13), [CodeForces](https://codeforces.com/profile/ashrock_m13), [LeetCode](https://leetcode.com/ashrockzzz2003/)].
 - 👀 ChatGPT prompter!
 - 🎼 Musician | 3D Graphic Designer | Programmer | Artist | App Developer...
+- 🍎MacOS fanboy
 
 ## Programming Languages & Frameworks
 
