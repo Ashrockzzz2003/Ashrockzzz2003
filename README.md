@@ -44,5 +44,6 @@
 # GitHub Stats :
 ![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashrockzzz2003&show_icons=true&theme=dark&hide_border=false)
 
+<!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashrockzzz2003&theme=dark)](https://git.io/streak-stats)
-
+-->
