@@ -11,7 +11,7 @@
 ## Programming Languages & Frameworks
 
 <!--TODO: Add verilog-->
-![Skills](https://skills.thijs.gg/icons?i=c,cpp,py,java,js,html,css,react,mysql,postgres,flutter,flask,sqlite,dart)
+![Skills](https://skills.thijs.gg/icons?i=c,cpp,py,java,js,html,css,react,next,mysql,postgres,flutter,flask,sqlite,dart,tailwind,express,nodejs,nginx,materialui,regex,)
 
 
 ## GitHub Contributions Graph
@@ -20,7 +20,7 @@
 
 ## Tools
 
-![My Skills](https://skills.thijs.gg/icons?i=git,github,androidstudio,linux,arduino,raspberrypi,autocad,blender,bootstrap,codepen,firebase,ps,visualstudio,vscode,wordpress,figma,eclipse,replit)
+![My Skills](https://skills.thijs.gg/icons?i=git,github,androidstudio,linux,arduino,raspberrypi,autocad,blender,bootstrap,codepen,firebase,ps,visualstudio,vscode,wordpress,figma,eclipse,replit,postman,vim,)
 
 ## MarkUp
 
@@ -34,6 +34,7 @@
 
 ## Reach Out To Me
 
+<a href="https://ashrockzzz2003.github.io/portfolio/"><img height="48" width="48" src="https://cdn3d.iconscout.com/3d/premium/thumb/web-browser-4165162-3457172.png" ></a>
 <a href="mailto:ashrockzzz2003@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
 <a href="https://www.linkedin.com/in/ashwin-narayanan-s-02a051222/">![LinkedIn](https://skills.thijs.gg/icons?i=linkedin)</a>
 <a href="https://www.instagram.com/ashrock_m13/">![My Skills](https://skills.thijs.gg/icons?i=instagram)</a>
