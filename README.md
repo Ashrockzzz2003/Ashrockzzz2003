@@ -15,8 +15,7 @@
 
 
 ## GitHub Contributions Graph
-
-[![Ashwin's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashrockzzz2003&theme=github-dark)](https://github.com/Ashrockzzz2003)
+[![Ashwin's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashrockzzz2003&theme=github-dark)](https://github.com/Ashrockzzz2003)
 
 ## Tools
 
