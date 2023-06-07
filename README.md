@@ -39,11 +39,10 @@
 <a href="https://www.instagram.com/ashrock_m13/">![My Skills](https://skills.thijs.gg/icons?i=instagram)</a>
 <a href="https://twitter.com/Ashwin66950013">![My Skills](https://skills.thijs.gg/icons?i=twitter)</a>
 
-<!-- 
 
 # GitHub Stats :
-![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashrockzzz2003&show_icons=true&theme=dark&hide_border=false)
+![Ashwin's GitHub Stats](https://github-readme-stats-dga59piw8-ashrockzzz2003.vercel.app/api?username=Ashrockzzz2003&show_icons=true&theme=dark&hide_border=false)
 
- -->
+
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashrockzzz2003&theme=dark)](https://git.io/streak-stats)
