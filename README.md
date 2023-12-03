@@ -1,6 +1,7 @@
 # About Me
 
 - 👋 Hi, I’m [`Ashwin Narayanan S`](https://ashrockzzz2003.github.io/portfolio/).
+- 🛠 I Craft Digital Solutions that make an Impact.
 - 👀 My Portfolio: [https://ashrockzzz2003.github.io/portfolio/](https://ashrockzzz2003.github.io/portfolio/)
 - 😌 Curious!
 - 👀 Just heading into Competetive Coding [[CodeChef](https://www.codechef.com/users/ashrock_m13), [CodeForces](https://codeforces.com/profile/ashrock_m13), [LeetCode](https://leetcode.com/ashrockzzz2003/)].
