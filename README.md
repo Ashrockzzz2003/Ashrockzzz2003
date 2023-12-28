@@ -4,7 +4,7 @@
 - 🛠 I Craft Digital Solutions that make an Impact.
 - 👀 My Portfolio: [https://ashrockzzz2003.github.io/portfolio/](https://ashrockzzz2003.github.io/portfolio/)
 - 😌 Curious!
-- 👀 Obsessed with Competetive Programming [[CodeChef](https://www.codechef.com/users/ashrock_m13), [CodeForces](https://codeforces.com/profile/ashrock_m13), [LeetCode](https://leetcode.com/ashrockzzz2003/)].
+- 👀 Into Competetive Programming [[CodeChef](https://www.codechef.com/users/ashrock_m13), [CodeForces](https://codeforces.com/profile/ashrock_m13), [LeetCode](https://leetcode.com/ashrockzzz2003/)].
 - 🎼 Musician | 3D Graphic Designer | Programmer | Artist | App Developer...
 - 🍎 MacOS fanboy!
 - `G` fanboy!
