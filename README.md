@@ -6,8 +6,8 @@
 - 😌 Curious!
 - 👀 Into Competetive Programming [[CodeChef](https://www.codechef.com/users/ashrock_m13), [CodeForces](https://codeforces.com/profile/ashrock_m13), [LeetCode](https://leetcode.com/ashrockzzz2003/)].
 - 🎼 Musician | 3D Graphic Designer | Programmer | Artist | App Developer...
-- 🍎 MacOS fanboy!
-- `G` fanboy!
+- 🍎 `MacOS` fanboy!
+- `Google's Material 3` fanboy!
 
 ## Programming Languages & Frameworks
 
