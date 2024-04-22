@@ -37,7 +37,7 @@
 
 <a href="https://ashrockzzz2003.github.io/portfolio/"><img height="48" width="48" src="https://cdn3d.iconscout.com/3d/premium/thumb/web-browser-4165162-3457172.png" ></a>
 <a href="mailto:ashrockzzz2003@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
-<a href="https://www.linkedin.com/in/ashwin-narayanan-s-02a051222/">![LinkedIn](https://skills.thijs.gg/icons?i=linkedin)</a>
+<a href="https://www.linkedin.com/in/ashwin2003/">![LinkedIn](https://skills.thijs.gg/icons?i=linkedin)</a>
 <a href="https://www.instagram.com/ashrock_m13/">![My Skills](https://skills.thijs.gg/icons?i=instagram)</a>
 <a href="https://twitter.com/Ashwin66950013">![My Skills](https://skills.thijs.gg/icons?i=twitter)</a>
 
