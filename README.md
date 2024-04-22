@@ -13,7 +13,7 @@
 ## Programming Languages & Frameworks
 
 <!--TODO: Add verilog-->
-![Skills](https://skills.thijs.gg/icons?i=c,cpp,py,java,js,html,css,react,next,mysql,postgres,flutter,flask,sqlite,dart,tailwind,express,nodejs,nginx,materialui,regex,)
+![Skills](https://skills.thijs.gg/icons?i=c,cpp,py,java,js,html,css,react,next,mysql,postgres,flutter,flask,sqlite,dart,tailwind,express,nodejs,nginx,materialui,regex,bash,solidity,haskell,django,vuejs)
 
 
 ## GitHub Contributions Graph
@@ -21,7 +21,7 @@
 
 ## Tools
 
-![My Skills](https://skills.thijs.gg/icons?i=git,github,androidstudio,linux,arduino,raspberrypi,autocad,blender,bootstrap,codepen,firebase,ps,visualstudio,vscode,wordpress,figma,eclipse,replit,postman,vim,)
+![My Tools](https://skills.thijs.gg/icons?i=git,github,gitlab,androidstudio,linux,arduino,autocad,blender,bootstrap,codepen,firebase,ps,visualstudio,vscode,remix,wordpress,figma,eclipse,replit,postman,vim,aws,azure,raspberrypi,anaconda,windows,apple,gmail,linkedin,npm,redis,stackoverflow,sklearn)
 
 ## MarkUp
 
@@ -30,7 +30,7 @@
 ## Competitive Coding Profile
 
 <a href="https://www.hackerrank.com/Ashrock_m13"><img height="45" width="45" src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png"></a>
-<a href="https://www.codechef.com/users/ashrock_m13" style="border-radius: 30%; height: 60px; width: 55px;"><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" style="border-radius: 30%; height: 60px; width: 55px;"></a>
+<a href="https://www.codechef.com/users/ashrock_m13" style="border-radius: 30%; height: 60px; width: 55px;"><img src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" style="border-radius: 30%; height: 60px; width: 55px;"></a>
 <a href="https://codeforces.com/profile/ashrock_m13"><img src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY" style="height: 60px; width: 55px;"></a>
 
 ## Reach Out To Me
