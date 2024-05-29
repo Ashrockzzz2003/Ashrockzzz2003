@@ -12,11 +12,11 @@
 
 ## Programming Languages & Frameworks
 
-<!--TODO: Add verilog-->
-![Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,next,mysql,postgres,flutter,flask,sqlite,dart,tailwind,express,nodejs,nginx,materialui,regex,bash,solidity,haskell,django,vuejs)
+![Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,next,mysql,postgres,flutter,flask,sqlite,dart,tailwind,express,nodejs,nginx,materialui,regex,bash,solidity,haskell,django,vuejs,scala)
 
 
 ## GitHub Contributions Graph
+
 [![Ashwin's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashrockzzz2003&theme=github-dark)](https://github.com/Ashrockzzz2003)
 
 ## Tools
