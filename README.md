@@ -12,7 +12,7 @@
 
 ## Programming Languages & Frameworks
 
-![Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,next,mysql,postgres,flutter,flask,sqlite,dart,tailwind,express,nodejs,nginx,materialui,regex,bash,solidity,haskell,django,vuejs,scala,go,kotlin)
+![Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,next,mysql,postgres,flutter,flask,sqlite,dart,tailwind,express,nodejs,nginx,materialui,regex,bash,solidity,haskell,django,vuejs,scala,go,kotlin,scss,angular)
 
 
 ## GitHub Contributions Graph
