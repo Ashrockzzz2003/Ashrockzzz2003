@@ -21,7 +21,7 @@
 
 ## Tools
 
-![My Tools](https://skillicons.dev/icons?i=git,github,gitlab,androidstudio,linux,arduino,autocad,blender,bootstrap,codepen,firebase,ps,visualstudio,vscode,remix,wordpress,figma,eclipse,replit,postman,vim,aws,azure,raspberrypi,anaconda,windows,apple,gmail,linkedin,npm,redis,stackoverflow,sklearn,githubactions)
+![My Tools](https://skillicons.dev/icons?i=git,github,gitlab,androidstudio,linux,arduino,autocad,blender,bootstrap,codepen,firebase,ps,visualstudio,vscode,remix,wordpress,figma,eclipse,replit,postman,vim,aws,azure,raspberrypi,anaconda,windows,apple,gmail,linkedin,npm,redis,stackoverflow,sklearn,githubactions,discord)
 
 ## MarkUp
 
