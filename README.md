@@ -10,10 +10,6 @@
 - 🍎 `MacOS` fanboy!
 - `Google's Material 3 UI` fanboy!
 
-## Today's Special (Diwali 2024)
-
-![image](https://github.com/user-attachments/assets/fc66f976-c20d-4d52-bef2-cf34d7c46b6f)
-
 
 ## Programming Languages & Frameworks
 
