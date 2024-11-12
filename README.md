@@ -43,12 +43,14 @@
 <a href="https://twitter.com/Ashwin66950013">![Twitter](https://skillicons.dev/icons?i=twitter)</a>
 
 
-# GitHub Stats :
+## GitHub Stats
 
 <!-- CUSTOM GITHUB README STATS HOSTED ON VERCEL -->
 <!-- Domain: github-readme-stats-dga59piw8-ashrockzzz2003.vercel.app -->
 ![Ashwin's GitHub Stats](https://github-readme-stats-dga59piw8-ashrockzzz2003.vercel.app/api?username=Ashrockzzz2003&show_icons=true&theme=dark&hide_border=false)
 
-
- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashrockzzz2003&theme=dark)](https://git.io/streak-stats)
+
+## Recent Badges
+
+[![An image of @ashrock_m13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashrock_m13)](https://holopin.io/@ashrock_m13)
