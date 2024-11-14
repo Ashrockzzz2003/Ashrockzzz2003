@@ -6,7 +6,8 @@
 - 👀 My Portfolio: [https://ashrockzzz2003.github.io/portfolio/](https://ashrockzzz2003.github.io/portfolio/)
 - 😌 Curious!
 - 👀 Into Competetive Programming [[CodeChef](https://www.codechef.com/users/ashrock_m13), [CodeForces](https://codeforces.com/profile/ashrock_m13), [LeetCode](https://leetcode.com/ashrockzzz2003/)].
-- 🎼 Musician | 3D Graphic Designer | Programmer | Artist | App Developer...
+- 🎼 Musician | 3D Graphic Designer | Programmer | Artist | Software Designer, Developer...
+- 🧠 Exploring Neural Networks and Deep Learning.
 - 🍎 `MacOS` fanboy!
 - `Google's Material 3 UI` fanboy!
 
