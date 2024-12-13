@@ -50,7 +50,9 @@
 <!-- Domain: github-readme-stats-dga59piw8-ashrockzzz2003.vercel.app -->
 ![Ashwin's GitHub Stats](https://github-readme-stats-dga59piw8-ashrockzzz2003.vercel.app/api?username=Ashrockzzz2003&show_icons=true&theme=dark&hide_border=false)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashrockzzz2003&theme=dark)](https://git.io/streak-stats)
+<!-- CUSTOM GITHUB STREAK STATS HOSTED ON VERCEL -->
+<!-- Domain: https://github-readme-streak-stats-two-blush.vercel.app -->
+[![GitHub Streak](https://github-readme-streak-stats-two-blush.vercel.app?user=Ashrockzzz2003&theme=dark)](https://git.io/streak-stats)
 
 ## Recent Badges
 
