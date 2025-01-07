@@ -57,3 +57,39 @@
 ## Recent Badges
 
 [![An image of @ashrock_m13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashrock_m13)](https://holopin.io/@ashrock_m13)
+
+## Contributed to
+
+### `DEAP` (Distributed Evolutionary Algorithms in Python) (https://github.com/DEAP/deap)
+
+- Bug Fix https://github.com/DEAP/deap/pull/762
+
+### `Elementary OS` (https://github.com/elementary)
+
+- https://github.com/elementary/releases/pull/57
+- https://github.com/elementary/releases/pull/59
+
+### `Anokha-24` (https://github.com/anokha-24)
+
+- https://github.com/anokha-24/anokha_backend
+- https://github.com/anokha-24/anokha_web
+- https://github.com/anokha-24/anokha_app
+- https://github.com/anokha-24/anokha_qr_scan
+- https://github.com/anokha-24/anokha_admin_angular
+- https://github.com/anokha-24/anokha_admin_app
+- https://github.com/anokha-24/anokha_intel_admin
+- https://github.com/anokha-24/anokha_transactions_live_update
+
+### `CSE-25` (https://github.com/CSE-25)
+
+- https://github.com/CSE-25/quick_start_express
+- https://github.com/CSE-25/winter-of-code-s1
+- https://github.com/CSE-25/amrita_pyq
+
+### `Anonymous`
+
+- https://github.com/Abhinav-ark/Amrita_map
+- https://github.com/IAmRiteshKoushik/woc-leaderboard
+- https://github.com/firstcontributions/first-contributions
+- https://github.com/SyedZawwarAhmed/Hacktoberfest-2023
+- https://github.com/Praveen-kumar-Murugesan/ACM-Student-Chapter
