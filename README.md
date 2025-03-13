@@ -71,12 +71,16 @@
 
 ### Evolutionary Algorithms On Click (EvOC)
 
-`MinIO` `RabbitMQ` `gRPC` `CockroachDB`
+`Genetic Algorithms` `MinIO` `RabbitMQ` `gRPC` `CockroachDB`
 
 - `Go` https://github.com/Evolutionary-Algorithms-On-Click/runner_controller_microservice
 - `Go` https://github.com/Evolutionary-Algorithms-On-Click/auth_microservice
 - `Python` https://github.com/Evolutionary-Algorithms-On-Click/runner
 - `Next.js` `TailwindCSS` https://github.com/Evolutionary-Algorithms-On-Click/evolve_frontend
+
+<details>
+
+<summary>View More</summary>
 
 ### `Anokha-24` (https://github.com/anokha-24)
 
@@ -109,3 +113,5 @@
 - `README` https://github.com/firstcontributions/first-contributions
 - `DSA` `Python` https://github.com/SyedZawwarAhmed/Hacktoberfest-2023
 - `HTML` `CSS` `JS` https://github.com/Praveen-kumar-Murugesan/ACM-Student-Chapter
+
+</details>
