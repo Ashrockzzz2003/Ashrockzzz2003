@@ -62,34 +62,50 @@
 
 ### `DEAP` (Distributed Evolutionary Algorithms in Python) (https://github.com/DEAP/deap)
 
-- Bug Fix https://github.com/DEAP/deap/pull/762
+- Bug Fix `Python` https://github.com/DEAP/deap/pull/762
 
 ### `Elementary OS` (https://github.com/elementary)
 
-- https://github.com/elementary/releases/pull/57
-- https://github.com/elementary/releases/pull/59
+- `README` https://github.com/elementary/releases/pull/57
+- `HTML` `CSS` https://github.com/elementary/releases/pull/59
+
+### Evolutionary Algorithms On Click (EvOC)
+
+`MinIO` `RabbitMQ` `gRPC` `CockroachDB`
+
+- `Go` https://github.com/Evolutionary-Algorithms-On-Click/runner_controller_microservice
+- `Go` https://github.com/Evolutionary-Algorithms-On-Click/auth_microservice
+- `Python` https://github.com/Evolutionary-Algorithms-On-Click/runner
+- `Next.js` `TailwindCSS` https://github.com/Evolutionary-Algorithms-On-Click/evolve_frontend
 
 ### `Anokha-24` (https://github.com/anokha-24)
 
-- https://github.com/anokha-24/anokha_backend
-- https://github.com/anokha-24/anokha_web
-- https://github.com/anokha-24/anokha_app
-- https://github.com/anokha-24/anokha_qr_scan
-- https://github.com/anokha-24/anokha_admin_angular
-- https://github.com/anokha-24/anokha_admin_app
-- https://github.com/anokha-24/anokha_intel_admin
-- https://github.com/anokha-24/anokha_transactions_live_update
+- `ExpressJS` `MySQL` `SMTP` `PayU` https://github.com/anokha-24/anokha_backend
+- `Next.js` `TailwindCSS` `Payments` https://github.com/anokha-24/anokha_web
+- `Flutter` https://github.com/anokha-24/anokha_app
+- `HTML` `CSS` `JS` https://github.com/anokha-24/anokha_qr_scan
+- `Angular.js` `SCSS` `TypeScript` https://github.com/anokha-24/anokha_admin_angular
+- `Flutter` https://github.com/anokha-24/anokha_admin_app
+- `Next.js` `TailwindCSS` https://github.com/anokha-24/anokha_intel_admin
+- `HTML` `CSS` `JS` https://github.com/anokha-24/anokha_transactions_live_update
 
 ### `CSE-25` (https://github.com/CSE-25)
 
-- https://github.com/CSE-25/quick_start_express
-- https://github.com/CSE-25/winter-of-code-s1
-- https://github.com/CSE-25/amrita_pyq
+- `JS` `npm` https://github.com/CSE-25/quick_start_express
+- `README` https://github.com/CSE-25/winter-of-code-s1
+- `Go` https://github.com/CSE-25/amrita_pyq
+
+### `Pragati 2025` (https://github.com/Pragati-2025)
+
+- `GoogleGemini` `AI` `Python` https://github.com/Pragati-2025/pragati-ai-experiment
+- `Next.js` `TailwindCSS` `Vercel AI SDK` `Gemini` https://github.com/Pragati-2025/pragati-web
+- `ExpressJS` `MySQL` `SMTP` `PayU` https://github.com/Pragati-2025/Pragati_Backend_2025
+- `ShadCN` `Dashboard` `Next.js` `TailwindCSS` https://github.com/Pragati-2025/pragati-admin
 
 ### `Anonymous`
 
-- https://github.com/Abhinav-ark/Amrita_map
-- https://github.com/IAmRiteshKoushik/woc-leaderboard
-- https://github.com/firstcontributions/first-contributions
-- https://github.com/SyedZawwarAhmed/Hacktoberfest-2023
-- https://github.com/Praveen-kumar-Murugesan/ACM-Student-Chapter
+- `HTML` `CSS` `JS` https://github.com/Abhinav-ark/Amrita_map
+- `Next.js` `TypeScript` `TailwindCSS` `GitHub OAuth` https://github.com/IAmRiteshKoushik/woc-leaderboard
+- `README` https://github.com/firstcontributions/first-contributions
+- `DSA` `Python` https://github.com/SyedZawwarAhmed/Hacktoberfest-2023
+- `HTML` `CSS` `JS` https://github.com/Praveen-kumar-Murugesan/ACM-Student-Chapter
