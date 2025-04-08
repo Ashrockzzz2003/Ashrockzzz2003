@@ -1,7 +1,7 @@
 # About Me
 
 - 👋 Hi, I’m [`Ashwin Narayanan S`](https://ashrockzzz2003.github.io/portfolio/).
-- <img src="https://avatars.githubusercontent.com/u/1342004?s=48&v=4" height="20" width="20" /> Ex-Google Software Engineering Intern, Summer 2024.
+- <img src="https://avatars.githubusercontent.com/u/1342004?s=48&v=4" height="20" width="20" /> Google Software Engineering Intern, Summer 2024.
 - 🛠 I Craft Digital Solutions that make an Impact.
 - 👀 My Portfolio: [https://ashrockzzz2003.github.io/portfolio/](https://ashrockzzz2003.github.io/portfolio/)
 - 😌 Curious!
