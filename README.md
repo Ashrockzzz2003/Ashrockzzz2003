@@ -14,7 +14,7 @@
 
 ## Programming Languages & Frameworks
 
-![Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,next,mysql,postgres,flutter,flask,sqlite,dart,tailwind,express,nodejs,nginx,materialui,regex,bash,solidity,haskell,django,vuejs,scala,go,kotlin,scss,angular,tensorflow,pytorch,ts)
+![Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,next,mysql,postgres,flutter,flask,sqlite,dart,tailwind,express,nodejs,nginx,materialui,regex,bash,solidity,haskell,django,vuejs,scala,go,kotlin,scss,angular,tensorflow,pytorch,ts,ansible)
 
 
 ## GitHub Contributions Graph
@@ -23,7 +23,7 @@
 
 ## Tools
 
-![My Tools](https://skillicons.dev/icons?i=git,github,gitlab,androidstudio,linux,arduino,autocad,blender,bootstrap,codepen,firebase,ps,visualstudio,vscode,remix,wordpress,figma,eclipse,replit,postman,vim,aws,azure,raspberrypi,anaconda,windows,apple,gmail,linkedin,npm,redis,stackoverflow,sklearn,githubactions,discord)
+![My Tools](https://skillicons.dev/icons?i=git,github,gitlab,androidstudio,linux,arduino,autocad,blender,bootstrap,codepen,firebase,ps,visualstudio,vscode,remix,wordpress,figma,eclipse,replit,postman,vim,aws,azure,raspberrypi,anaconda,windows,apple,gmail,linkedin,npm,redis,stackoverflow,sklearn,githubactions,discord,kubernetes)
 
 ## MarkUp
 
