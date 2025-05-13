@@ -7,7 +7,7 @@
 - 😌 Curious!
 - 👀 Into Competetive Programming [[CodeChef](https://www.codechef.com/users/ashrock_m13), [CodeForces](https://codeforces.com/profile/ashrock_m13), [LeetCode](https://leetcode.com/ashrockzzz2003/)].
 - 🎼 Musician | 3D Graphic Designer | Programmer | Artist | Software Designer, Developer...
-- 🧠 Exploring Evolutionary Algorithms, Distributed Computing, Infrastructure as code!
+- 🧠 Exploring AI Search Methods, Distributed Computing, Infrastructure as code!
 - 🍎 `MacOS` fanboy!
 - `Google's Material 3 UI` fanboy!
 
