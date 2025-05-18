@@ -106,6 +106,14 @@
 - `ExpressJS` `MySQL` `SMTP` `PayU` https://github.com/Pragati-2025/Pragati_Backend_2025
 - `ShadCN` `Dashboard` `Next.js` `TailwindCSS` https://github.com/Pragati-2025/pragati-admin
 
+### Virtual Labs (Govt. Of India Initiative)
+
+- `MarkDown` https://github.com/virtual-labs/exp-tcp-au
+- `MarkDown` https://github.com/virtual-labs/exp-passive-attacks-au
+- `MarkDown` https://github.com/virtual-labs/exp-active-attacks-au
+- `MarkDown` https://github.com/virtual-labs/exp-replay-attacks-au
+- `MarkDown` https://github.com/virtual-labs/exp-kerberos-protocol-au
+
 ### `Anonymous`
 
 - `HTML` `CSS` `JS` https://github.com/Abhinav-ark/Amrita_map
